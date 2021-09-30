@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 :root {
-  --primary: rgb(170, 183, 255);
-  --color: rgb(63, 63, 63);
-  --button-bg: rgb(77, 77, 77);
+  --primary: rgb(40, 34, 202);
+  --color: rgb(94, 45, 45);
+  --button-bg: rgb(152, 100, 100);
 }
 
 * {
